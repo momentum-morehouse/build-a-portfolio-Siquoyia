@@ -1,0 +1,24 @@
+body {
+    background-color: blueviolet;
+}
+
+p {
+    font-family: fantasy;
+}
+
+p {
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+    
+      }
+
+p  {
+    border-bottom-color: black;
+    background-color:grey;
+}
+
+
+
+    
